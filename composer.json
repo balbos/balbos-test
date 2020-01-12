@@ -1,19 +1,20 @@
 {
-    "name": "balbos/balbost-test",
-    "description": "Test",
-    "authors": [
-        {
-            "name": "Petr Balvín",
-            "email": "petr.balvin@haxo.cz"
-        }
-    ],
-   "require": {
-        "php": ">=7.2",
-       "nette/nette": "^3.0"
-    },
-    "autoload": {
-        "classmap": [
-            "src/"
-        ]
+  "name": "balbos/balbost-test",
+  "description": "Test",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Petr Balvín",
+      "email": "petr.balvin@haxo.cz"
     }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "nette/nette": "^3.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
 }
