@@ -1,0 +1,19 @@
+{
+    "name": "balbos/balbostTest",
+    "description": "Test",
+    "authors": [
+        {
+            "name": "Petr Balvín",
+            "email": "petr.balvin@haxo.cz"
+        }
+    ],
+   "require": {
+        "php": ">=7.2",
+       "nette/nette": "^3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
